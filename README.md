@@ -21,8 +21,6 @@ if(true){
   
 }
 ```
-- Image
-
 - Link
   - https://www.naver.com/
   - 두 문단으로 구성된 글을 인용합니다. 두 문단으로 구성된 글을 인용합니다. 
